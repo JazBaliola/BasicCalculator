@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"jazcodeit.sc.application","l":"AppDriver"},{"p":"jazcodeit.sc.gui","l":"Calculator"}];updateSearchResults();
