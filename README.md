@@ -1,10 +1,10 @@
-# Simple Calculator 🖩
+# Simple Calculator
 
-## Project Description 💻
+## Project Description
 
 This personal project of mine is a Calculator that can do simple calculations. It is created using Java GUI.
 
-## How to Use? 🤔
+## How to Use?
 
 There are 2 ways to run the application.
 
