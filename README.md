@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This personal project of mine is a Calculator that can do simple calculations. It is created using Java GUI.
+This personal project of mine is a Calculator that can do basic calculations. It is created using Java GUI.
 
 ## How to Use?
 
