@@ -20,7 +20,7 @@ Open Eclipes(This can be IDE of your choice) and then go to "src/jazcodeit/sc/ap
 
 ### Links 🔗
 
-Visit my [Personal Website](https://jazbaliola.ml) or my [LinkedIn](https://www.linkedin.com/in/jazbaliola/). <br/>
-Give some love 📷[Instagram Post](https://jazbaliola.ml), Watch my 📹[Tutorial](https://jazbaliola.ml) on youtube.
+Visit my [Personal Website](https://jazcodeit.ca) or my [LinkedIn](https://www.linkedin.com/in/jazbaliola/). <br/>
+Give some love 📷[Instagram Post](https://jazcodeit.ca), Watch my 📹[Tutorial](https://jazcodeit.ca) on youtube.
 
 ---
